@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\rupam.pal\\Angular Projects\\TodoLit-C#\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1BC12ED0-E6EB-4348-8E47-F84B6C530339}|TodoLit-C#\\TodoLit-C#.csproj|c:\\users\\rupam.pal\\angular projects\\todolit-c#\\todolit-c#\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BC12ED0-E6EB-4348-8E47-F84B6C530339}|TodoLit-C#\\TodoLit-C#.csproj|solutionrelative:todolit-c#\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BC12ED0-E6EB-4348-8E47-F84B6C530339}|TodoLit-C#\\TodoLit-C#.csproj|c:\\users\\rupam.pal\\angular projects\\todolit-c#\\todolit-c#\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1BC12ED0-E6EB-4348-8E47-F84B6C530339}|TodoLit-C#\\TodoLit-C#.csproj|solutionrelative:todolit-c#\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BC12ED0-E6EB-4348-8E47-F84B6C530339}|TodoLit-C#\\TodoLit-C#.csproj|c:\\users\\rupam.pal\\angular projects\\todolit-c#\\todolit-c#\\views\\home\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1BC12ED0-E6EB-4348-8E47-F84B6C530339}|TodoLit-C#\\TodoLit-C#.csproj|solutionrelative:todolit-c#\\views\\home\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BC12ED0-E6EB-4348-8E47-F84B6C530339}|TodoLit-C#\\TodoLit-C#.csproj|c:\\users\\rupam.pal\\angular projects\\todolit-c#\\todolit-c#\\models\\todo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BC12ED0-E6EB-4348-8E47-F84B6C530339}|TodoLit-C#\\TodoLit-C#.csproj|solutionrelative:todolit-c#\\models\\todo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BC12ED0-E6EB-4348-8E47-F84B6C530339}|TodoLit-C#\\TodoLit-C#.csproj|c:\\users\\rupam.pal\\angular projects\\todolit-c#\\todolit-c#\\models\\filters.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BC12ED0-E6EB-4348-8E47-F84B6C530339}|TodoLit-C#\\TodoLit-C#.csproj|solutionrelative:todolit-c#\\models\\filters.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BC12ED0-E6EB-4348-8E47-F84B6C530339}|TodoLit-C#\\TodoLit-C#.csproj|c:\\users\\rupam.pal\\angular projects\\todolit-c#\\todolit-c#\\models\\todocontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BC12ED0-E6EB-4348-8E47-F84B6C530339}|TodoLit-C#\\TodoLit-C#.csproj|solutionrelative:todolit-c#\\models\\todocontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BC12ED0-E6EB-4348-8E47-F84B6C530339}|TodoLit-C#\\TodoLit-C#.csproj|c:\\users\\rupam.pal\\angular projects\\todolit-c#\\todolit-c#\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BC12ED0-E6EB-4348-8E47-F84B6C530339}|TodoLit-C#\\TodoLit-C#.csproj|solutionrelative:todolit-c#\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Add.cshtml",
+              "DocumentMoniker": "C:\\Users\\rupam.pal\\Angular Projects\\TodoLit-C#\\TodoLit-C#\\Views\\Home\\Add.cshtml",
+              "RelativeDocumentMoniker": "TodoLit-C#\\Views\\Home\\Add.cshtml",
+              "ToolTip": "C:\\Users\\rupam.pal\\Angular Projects\\TodoLit-C#\\TodoLit-C#\\Views\\Home\\Add.cshtml",
+              "RelativeToolTip": "TodoLit-C#\\Views\\Home\\Add.cshtml",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAmwCAAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-23T19:37:15.766Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Filters.cs",
+              "DocumentMoniker": "C:\\Users\\rupam.pal\\Angular Projects\\TodoLit-C#\\TodoLit-C#\\Models\\Filters.cs",
+              "RelativeDocumentMoniker": "TodoLit-C#\\Models\\Filters.cs",
+              "ToolTip": "C:\\Users\\rupam.pal\\Angular Projects\\TodoLit-C#\\TodoLit-C#\\Models\\Filters.cs",
+              "RelativeToolTip": "TodoLit-C#\\Models\\Filters.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-23T13:49:07.003Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Todo.cs",
+              "DocumentMoniker": "C:\\Users\\rupam.pal\\Angular Projects\\TodoLit-C#\\TodoLit-C#\\Models\\Todo.cs",
+              "RelativeDocumentMoniker": "TodoLit-C#\\Models\\Todo.cs",
+              "ToolTip": "C:\\Users\\rupam.pal\\Angular Projects\\TodoLit-C#\\TodoLit-C#\\Models\\Todo.cs",
+              "RelativeToolTip": "TodoLit-C#\\Models\\Todo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-23T09:49:37.928Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\rupam.pal\\Angular Projects\\TodoLit-C#\\TodoLit-C#\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "TodoLit-C#\\Models\\Category.cs",
+              "ToolTip": "C:\\Users\\rupam.pal\\Angular Projects\\TodoLit-C#\\TodoLit-C#\\Models\\Category.cs",
+              "RelativeToolTip": "TodoLit-C#\\Models\\Category.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-23T10:48:43.267Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ToDoContext.cs",
+              "DocumentMoniker": "C:\\Users\\rupam.pal\\Angular Projects\\TodoLit-C#\\TodoLit-C#\\Models\\ToDoContext.cs",
+              "RelativeDocumentMoniker": "TodoLit-C#\\Models\\ToDoContext.cs",
+              "ToolTip": "C:\\Users\\rupam.pal\\Angular Projects\\TodoLit-C#\\TodoLit-C#\\Models\\ToDoContext.cs",
+              "RelativeToolTip": "TodoLit-C#\\Models\\ToDoContext.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAAwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-23T09:51:20.837Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\rupam.pal\\Angular Projects\\TodoLit-C#\\TodoLit-C#\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "TodoLit-C#\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\rupam.pal\\Angular Projects\\TodoLit-C#\\TodoLit-C#\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "TodoLit-C#\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAACQAAAAAAAAAAAAAADMAAABCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-23T09:24:35.091Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\rupam.pal\\Angular Projects\\TodoLit-C#\\TodoLit-C#\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "TodoLit-C#\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\rupam.pal\\Angular Projects\\TodoLit-C#\\TodoLit-C#\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "TodoLit-C#\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAE8AAAAAAAAAAAAkwGAAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-22T20:25:26.48Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
